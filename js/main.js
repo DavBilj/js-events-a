@@ -92,6 +92,7 @@ function visibleFilms() {
   });
 }
 
+  // nastavljamo...
 
 
 function render() {
